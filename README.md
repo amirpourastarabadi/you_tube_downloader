@@ -1,7 +1,7 @@
 # youTubeDownloader Instruction
 
 ```html
-git clone https://github.com/amirpourastarabadi/youTube.git
+git clone https://github.com/amirpourastarabadi/youTubeDownloader.git
 ```
 ```html
 cd youTubeDownloader
