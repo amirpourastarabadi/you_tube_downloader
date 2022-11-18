@@ -13,9 +13,6 @@ or
 pip install pytube
 ```
 ```html
-pip install pytube
-```
-```html
 pip install colorama
 ```
 ```html
